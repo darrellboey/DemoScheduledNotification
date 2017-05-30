@@ -7,9 +7,9 @@
     android:orientation="vertical"
     tools:context="com.example.a15056233.demoschedulednotification.MainActivity">
 
-    <TextView
-        android:id="@+id/textView"
+    <Button
+        android:id="@+id/btnSchedule"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="Launch notification in 5 seconds" />
 </LinearLayout>
